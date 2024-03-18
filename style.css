@@ -1,0 +1,36 @@
+#hidden-text{
+    color: blue;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    
+}
+.btn {
+    display: flex;
+    justify-content: center;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 30px ;
+}
+
+.one {
+    
+}
+
+.plus {
+
+}
+
+.two {
+
+}
+
+#img {
+
+height: 1000px ;
+}
